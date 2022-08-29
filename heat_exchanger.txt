@@ -3,3 +3,5 @@ solve the energy
 get the result
 
 read and write files
+
+show the picture
