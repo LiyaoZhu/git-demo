@@ -7,3 +7,5 @@ read and write files
 show the picture
 
 fix in hot-fix
+
+fix according to PartyA
